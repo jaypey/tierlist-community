@@ -1,0 +1,21 @@
+.cardItem{
+    border-color: grey;
+    border-style: dotted;
+    color:grey;
+    height: 70px;
+    width: 100px;
+    text-align: center;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.cardItemAdded{
+    border-color: purple;
+    border-style: solid;
+    width: 100px;
+    color:purple;
+    height: 70px;
+    text-align: center;
+    margin: 10px;
+    border-radius: 5px;
+}

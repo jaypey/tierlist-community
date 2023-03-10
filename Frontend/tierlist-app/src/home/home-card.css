@@ -1,7 +1,13 @@
 
 .homeMainCard{
-    background-color: #393053;
+    background-color: #201b2f;
     border-radius: 15px;
     height: 50rem;
     width: 50%;
+    text-align: start;
+    padding: 50px;
+}
+
+.roomNameInput {
+    width: 100%;
 }
